@@ -1,0 +1,23 @@
+body {
+	background-color: r #F7F9FC;
+}
+a {
+	text-decoration: none;
+	color: green;
+}
+h2 {
+	color: red;
+	font-size: 24px;	
+}
+
+.card {
+	text-align: center;
+	background-color: white;
+	padding: 30px;
+	margin: 40px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0,1);
+}
+.container {
+	width: 600px;
+margin: 0 auto;
+}
